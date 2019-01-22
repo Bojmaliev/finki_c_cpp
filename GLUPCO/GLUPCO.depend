@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492967823 source:d:\documents\finki\glupco\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
